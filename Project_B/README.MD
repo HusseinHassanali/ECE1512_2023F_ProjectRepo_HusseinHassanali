@@ -22,6 +22,8 @@ Link to MHIST dataset: https://bmirds.github.io/MHIST/
 A summary of the performance of the models is below.
 
 Task 1 with MNIST (Benchmark Test Accuracy): 99.5% (Synthetic Set Test Accuracy): 90.63% 
+
 Task 1 with MHIST (Benchmark Test Accuracy): 74.10% (Synthetic Set Test Accuracy): 36.85% 
+
 Task 2 with MNIST (Benchmark Test Accuracy): 99.4% (Synthetic Set Test Accuracy): 21.39% 
                                     
